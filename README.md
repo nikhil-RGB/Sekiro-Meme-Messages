@@ -39,4 +39,6 @@ For example-
 - Simply drop the msg folder into your mods folder, should be good to go!
 - Since this mod only modifies the msg folder, and is not a gameplay/texture mod, you can merge it with other mods with relative ease.
 
+<a href="https://www.nexusmods.com/sekiro/mods/1066">View Nexus Mods Page</a>
+
 
